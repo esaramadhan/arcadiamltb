@@ -1,4 +1,4 @@
-FROM anasty17/mltb:latest
+FROM esaramadhan/arcadiamltb:latest
 
 WORKDIR /usr/src/app
 RUN chmod 777 /usr/src/app
